@@ -4,7 +4,3 @@ nltk
 pandas
 numpy
 scikit-learn
-
-git add requirements.txt
-git commit -m "Add TextBlob dependency"
-git push origin main
